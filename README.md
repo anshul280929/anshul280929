@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshul Bhaskar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul280929&label=Profile%20views&color=0e75b6&style=flat" alt="anshul280929" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RYnfQDsT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshu.b_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-bhaskar-940b5b1b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulbhaskar50@gmail.com) 
