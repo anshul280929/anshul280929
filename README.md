@@ -4,15 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul280929&label=Profile%20views&color=0e75b6&style=flat" alt="anshul280929" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshul280929" alt="anshul280929" /></a> </p>
-
-- 🔭 I’m currently working on [/ASTRA-AI-Scheduler-for-Tasks-Routines-Actions](/ASTRA-AI-Scheduler-for-Tasks-Routines-Actions)
-
-- 👨‍💻 All of my projects are available at [https://github.com/anshul280929](https://github.com/anshul280929)
-
-- 💬 Ask me about **React, Spring Boot, NextJs**
-
-- 📫 How to reach me **anshulbhaskar50@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anshul280929&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
