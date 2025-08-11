@@ -14,18 +14,19 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/anshulb43/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/anshulb43/" height="30" width="40" /></a>
 </p>
 
-# 💻 Frontend Development:
+<h4 align="left">💻 Frontend Development:</h3>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-# 🛠️ Backend Development:
+<h4 align="left">🛠️ Backend Development:</h3>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
-# 🛠️ Databases:
+<h4 align="left">💾 Databases:</h3>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 🛠️ DevOps:
+<h4 align="left">🚀 DevOps:</h3>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-# Other Tools:
+<h4 align="left">🧰Other Tools:</h3>
+# 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshul280929&show_icons=true&locale=en&layout=compact" alt="anshul280929" /></p>
