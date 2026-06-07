@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=anshul280929&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anshul280929&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul280929&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul280929&" alt="anshul280929" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anshul280929&theme=radical&no-frame=false&no-bg=true&margin-w=4)
