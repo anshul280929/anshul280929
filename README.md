@@ -197,29 +197,17 @@ Developed real-time mobile AI solutions using Kotlin, CameraX, and MoveNet for s
 
 ---
 
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|----------|
-| LeetCode | 1800+ Rating (Top 5.12% Globally) |
-| HackElite24 | Led 4-member team; Top 30 among 300 teams |
-| National Hackathon Leadership | Organized 500+ participant hackathon |
-
-</div>
-
 ---
 
 # Coding Profiles
 
 <div align="center">
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/BlueBinary07/)">
+<a href="https://leetcode.com/u/BlueBinary07/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/anshulb43?tab=activity)">
+<a href="https://www.geeksforgeeks.org/profile/anshulb43?tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 </div>
