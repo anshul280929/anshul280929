@@ -1,25 +1,327 @@
-<h1 align="center">Hi 👋, I'm Anshul Bhaskar</h1>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul280929&label=Profile%20views&color=0e75b6&style=flat" alt="anshul280929" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:9333EA&text=Anshul%20Bhaskar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/RYnfQDsT) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anshu.b_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshul-bhaskar-940b5b1b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshulbhaskar50@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full-Stack+Developer;Building+Scalable+Systems;Distributed+Systems+%7C+Cloud+%7C+AI%2FML"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshul280929&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anshul280929&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul280929&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anshul280929&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshul280929&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://img.shields.io/badge/B.E.-Computer%20Science-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.35-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/LeetCode-1800%2B%20Rating-9333EA?style=for-the-badge)
+![](https://img.shields.io/badge/Top-5.12%25%20Global-6366F1?style=for-the-badge)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://img.shields.io/badge/Location-Bengaluru%2C%20India-8B5CF6?style=flat-square)
+
+<br/>
+
+<a href="https://portfolio-placeholder.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anshulbhaskar50@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anshul280929">
+<img src="https://img.shields.io/badge/GitHub-Follow-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=anshul280929&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/anshul280929?style=for-the-badge&color=4F46E5)
+![](https://img.shields.io/github/stars/anshul280929?affiliations=OWNER&style=for-the-badge&color=9333EA)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anshul280929&icon=5&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About
+
+Software Engineer and AI Engineer focused on building scalable backend systems, intelligent applications, distributed architectures, and production-grade cloud-native solutions.
+
+My engineering interests span across:
+
+- Distributed Systems
+- Backend Engineering
+- Artificial Intelligence
+- Retrieval-Augmented Generation (RAG)
+- Cloud Computing
+- Full-Stack Product Development
+- Microservices Architecture
+- System Design
+
+With strong foundations in Data Structures & Algorithms, Object-Oriented Programming, Databases, Operating Systems, and Computer Networks, I enjoy solving complex engineering challenges and building systems that scale.
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,ts,python,sql" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mysql,mongodb,docker" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,postman,idea,vscode" />
+</p>
+
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>Gyan — Document Grounded AI Workspace</b></summary>
+
+### Overview
+
+Enterprise-grade AI workspace enabling document intelligence through Retrieval-Augmented Generation pipelines.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Spring Boot, Elasticsearch, Kafka, Gemini API, Docker |
+| Scale | Multi-document processing |
+| Performance | Asynchronous ingestion and retrieval |
+| Security | Containerized deployments |
+| Impact | Context-aware enterprise document Q&A |
+| Repository | https://github.com/anshul280929 |
+
+### Engineering Highlights
+
+- Engineered a RAG pipeline using Elasticsearch and sentence-transformers.
+- Implemented semantic retrieval workflows.
+- Built asynchronous document processing using Kafka.
+- Created cloud-agnostic deployment architecture.
+- Reduced setup time through containerized infrastructure.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>Payment Simulator</b></summary>
+
+### Overview
+
+Distributed payment ecosystem simulation built using microservices architecture.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Java, Spring Boot, RabbitMQ, PostgreSQL, Docker |
+| Scale | 10 Microservices |
+| Performance | Event-driven workflows |
+| Security | Service-to-service architecture |
+| Impact | Real-world payment lifecycle simulation |
+| Repository | https://github.com/anshul280929 |
+
+### Engineering Highlights
+
+- Implemented APIs across payment services.
+- Built authorization, refund, capture and chargeback flows.
+- Containerized infrastructure with Docker Compose.
+- Integrated PostgreSQL and RabbitMQ.
+- Applied microservice communication patterns.
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>AI-Powered Resume Builder</b></summary>
+
+### Overview
+
+Intelligent resume generation platform leveraging LLMs and ATS optimization.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Spring Boot, React.js, DeepSeek 7B |
+| Scale | Multi-user web platform |
+| Performance | Fast resume generation |
+| Security | Server-side processing |
+| Impact | ATS-optimized resume creation |
+| Repository | https://github.com/anshul280929 |
+
+### Engineering Highlights
+
+- Integrated DeepSeek 7B LLM.
+- Built custom prompt engineering workflows.
+- Developed ATS-compliant PDF generation.
+- Designed full-stack architecture.
+- Improved resume relevance through AI optimization.
+
+</details>
+
+---
+
+# Experience
+
+## Android App Developer Intern
+### Indian Institute of Science (IISc), Bengaluru
+
+**Oct 2025 — Jan 2026**
+
+Developed real-time mobile AI solutions using Kotlin, CameraX, and MoveNet for skeletal pose estimation applications.
+
+#### Scope
+
+- Built real-time pose estimation pipeline.
+- Achieved sub-100ms inference latency.
+- Processed 17 keypoint skeletal tracking.
+- Applied modular architecture principles.
+- Improved maintainability through clean software design.
+
+**Skills**
+
+`Kotlin` `Android` `CameraX` `MoveNet` `Mobile AI` `OOP`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| LeetCode | 1800+ Rating (Top 5.12% Globally) |
+| HackElite24 | Led 4-member team; Top 30 among 300 teams |
+| National Hackathon Leadership | Organized 500+ participant hackathon |
+
+</div>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="[https://leetcode.com/](https://leetcode.com/u/BlueBinary07/)">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/profile/anshulb43?tab=activity)">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshul280929&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anshul280929&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul280929&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anshul280929&theme=algolia&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshul280929&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+learning:
+  - Distributed Systems
+  - System Design
+  - Cloud Architecture
+  - Advanced Backend Engineering
+
+building:
+  - AI-Powered Applications
+  - RAG Pipelines
+  - Enterprise Microservices
+  - Developer Productivity Tools
+
+exploring:
+  - Agentic AI
+  - MLOps
+  - Event-Driven Systems
+  - Cloud Native Infrastructure
+
+open_to:
+  - Software Engineering Internships
+  - Backend Engineering Roles
+  - AI Engineering Opportunities
+  - Open Source Contributions
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:anshulbhaskar50@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anshul-bhaskar-940b5b1b0/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/anshul280929">
+<img src="https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:9333EA"/>
