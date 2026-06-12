@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/anshul-bhaskar-940b5b1b0/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
